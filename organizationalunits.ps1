@@ -1,4 +1,4 @@
-# brutforce script to make some organizational units
+p# brutforce script to make some organizational units
 
 # you need to change "DC=ad,DC=sparky-tech,DC=com" to match your domain and update the ST initials to match or remove them
 

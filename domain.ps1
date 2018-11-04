@@ -36,3 +36,4 @@ Install-WindowsFeature AD-Domain-Services -IncludeManagementTools | Out-Null
 Install-ADDSForest -DomainName $domainname
 
 # the machine will now reboot
+#I have no idea what this file is saying to do. But I did make my changes to the 'organizationalunits.ps1' file. I'm not sure what the 'postdomains.ps1' is about either. But I think I'm understanding how this github thing works.
